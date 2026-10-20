@@ -18,33 +18,44 @@
 ### My Social Media  💻
 - <a href="https://www.linkedin.com/in/juan-moreno071325/?isSelfProfile=true"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/bilibili.ico"></a>：LinKedin 📺
 
-### 技术栈 🛠️
-![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
-![C语言](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
-![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css)
-![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=ffffff )
-![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=flat&logo=go&logoColor=ffffff )
-![EJS](https://img.shields.io/badge/-EJS-%23B4CA65?style=flat&logo=javascript&logoColor=000000 )
-![Pug](https://img.shields.io/badge/-Pug-%23a86454?style=flat&logo=pug&logoColor=ffffff )
-![Handlebars](https://img.shields.io/badge/-Handlebars-%23f0772b?style=flat&logo=handlebarsdotjs&logoColor=ffffff )
-![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat&logo=php&logoColor=ffffff )
-![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=TypeScript&logoColor=ffffff )
-![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=shell&logoColor=ffffff)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
-![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=React&logoColor=000000 )
-![Node.js](https://img.shields.io/badge/-Node.js-%234a8e34?style=flat&logo=node.js&logoColor=ffffff )
-![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=Docker&logoColor=ffffff )
-![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=ffffff )
-![GitHub](https://img.shields.io/badge/-GitHub-%2320232a?style=flat&logo=github )
-![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux&logoColor=000000 )
-![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode&logoColor=white)
+### Ide'S 🛠️
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea&perline=14" /><img src="https://skills.syvixor.com/api/icons?i=netbeans" />
+  </a>
+</p>
+
+
+### Languages 🌜
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java&perline=14" />
+  </a>
+</p>
+
+
+### Data Base 💻
+
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,&perline=14" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
 
 
 ### 开源项目 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
