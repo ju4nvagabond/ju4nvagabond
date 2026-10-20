@@ -18,14 +18,19 @@
 ### My Social Media  💻
 - <a href="https://www.linkedin.com/in/juan-moreno071325/?isSelfProfile=true"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/bilibili.ico"></a>：LinKedin 📺
 
+
+###----------------------------------------------------------------------------------
+
 ### Ide'S 🛠️
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea&perline=14" /><img src="https://skills.syvixor.com/api/icons?i=netbeans" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea&perline=14" /> <img src="https://skills.syvixor.com/api/icons?i=netbeans" />
   </a>
 </p>
+
+###-------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### Languages 🌜
@@ -37,6 +42,8 @@
   </a>
 </p>
 
+###-------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### Data Base 💻
 
@@ -44,21 +51,14 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=14" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" />
   </a>
 </p>
 
+###-------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-
-
-
-
-
-
-
-### 开源项目 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
+### Open Source Projects<picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Yus_cipher&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Yus_cipher)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Sensitive_Data_System&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Sensitive_Data_System)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Happy_Birthday&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Happy_Birthday)
