@@ -1,22 +1,18 @@
- <img align="center" src="https://wallpaperaccess.com/full/9257548.jpg" alt="Hi" width="500" height="100" /> 
+ <img align="center" src="https://wallpaperaccess.com/full/9257548.jpg" alt="Hi" width = "1500" height="500"/> 
 
 <h1>Hi I'm Juan Moreno <img src="https://giffiles.alphacoders.com/190/190192.gif" alt="Hi" width="100" /> </h1>
 
-<p align="center">
-  <a href="https://github.com/Aurorp1g">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I%27m+Aurorp1g+from+Shantou%2C+Guangdong+%F0%9F%97%BB;Network+Engineering+Undergraduate+👨‍🎓;Researching+Cybersecurity%2C+Cryptography%2C+Reverse+Engineering%2C+Full+Stack+Dev+👨‍💻;Interested+in+Data+Structures%2C+Algorithms%2C+Coding%2C+and+Low-Level+Computing%20🚀;Welcome+to+My+Github%20🍨;">
-  </a>
-</p>
 
-### 自我介绍 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
+
+### About me <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
-- 大家好，我是 Aurorp1g ，来自广东汕头🗻
-- 目前是一名网络工程在读本科生 👨‍🎓
-- 同时研究网络安全、密码学、逆向工程、全栈开发 👨‍💻
-- 对数据结构与算法、coding、底层计算机感兴趣 🚀
-- 欢迎光临我的Github 🍧
+- Software Engineering student in my fifth semester.🗻
+- Backend Developer with .NET 👨‍🎓
+- Currently learning Java and Spring Boot. 👨‍💻
+- Passionate about challenges.🚀
+
 
 
 ### 社交主页 💻
