@@ -15,8 +15,7 @@
 
 
 
-### 社交主页 💻
-- <a href="https://github.com/ju4nvagabond#hi-im-juan-moreno--"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/favicon.ico"></a>：GitHub 🌐
+### My Social Media  💻
 - <a href="https://www.linkedin.com/in/juan-moreno071325/?isSelfProfile=true"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/bilibili.ico"></a>：LinKedin 📺
 
 ### 技术栈 🛠️
