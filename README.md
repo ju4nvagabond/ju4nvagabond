@@ -19,7 +19,7 @@
 - <a href="https://www.linkedin.com/in/juan-moreno071325/?isSelfProfile=true"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/bilibili.ico"></a>：LinKedin 📺
 
 
-###----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 
 ### Ide'S 🛠️
 </div>
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-###-------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### Languages 🌜
@@ -42,7 +42,7 @@
   </a>
 </p>
 
-###-------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### Data Base 💻
@@ -55,34 +55,30 @@
   </a>
 </p>
 
-###-------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### Open Source Projects<picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Yus_cipher&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Yus_cipher)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Sensitive_Data_System&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Sensitive_Data_System)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Happy_Birthday&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Happy_Birthday)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=Heart-notes&theme=github_dark_dimmed)](https://github.com/Aurorp1g/Heart-notes)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=Aurorp1g&repo=My-Heart&theme=github_dark_dimmed)](https://github.com/Aurorp1g/My-Heart)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=PinguiPau&repo=RapiRifa&theme=github_dark_dimmed)](https://github.com/PinguiPau/RapiRifa.git)
+
 <br>
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
 
-### 编程语言 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-<img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=Aurorp1g&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Aurorp1g" width="350" height="250">
 
-### Github 状态图 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-![Aurorp1g's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=Aurorp1g&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
+### My Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ju4nvagabond&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
-### Github 贡献图 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-[![Aurorp1g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aurorp1g&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Top Languages
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ju4nvagabond&layout=compact&theme=github_dark_dimmed)
 
-#
+
+
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
 -----
-Credits: [Aurorp1g](https://github.com/Aurorp1g)
+Credits: [ju4nvagabond](https://github.com/ju4nvagabond)
 
-Last Edited on: 19/03/2026
+Last Edited on: 19/10/2026
