@@ -16,7 +16,7 @@
 
 
 ### 社交主页 💻
-- <a href="https://aurorp1g.github.io/"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/favicon.ico"></a>：这是我的个人网站 🌐
+- <a href="https://github.com/ju4nvagabond#hi-im-juan-moreno--"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/favicon.ico"></a>：这是我的个人网站 🌐
 - <a href="https://space.bilibili.com/2066996205"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/bilibili.ico"></a>：这是我的Bilibili主页 📺
 
 ### 技术栈 🛠️
