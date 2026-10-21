@@ -8,10 +8,10 @@
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
-- Software Engineering student in my fifth semester.🗻
-- Backend Developer with .NET 👨‍🎓
-- Currently learning Java and Spring Boot. 👨‍💻
-- Passionate about challenges.🚀
+* 🎓 **5th semester student** of Technology in Web and Mobile Application Development.
+* 🚀 **Backend Developer** focused on .NET (C#, .NET Core, ASP.NET Web API) & SQL Server.
+* 🧪 Experience with Unit Testing, REST APIs, and MVC/MVVM architectures.
+* 📍 Based in Bogotá, Colombia.
 
 
 
@@ -66,10 +66,10 @@
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
 
 
-### My Statistics
+### Core Technologies
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ju4nvagabond&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
-### Top Languages
+
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ju4nvagabond&layout=compact&theme=github_dark_dimmed)
 
 
