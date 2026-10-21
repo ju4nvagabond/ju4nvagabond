@@ -60,6 +60,7 @@
 
 ### Open Source Projects<picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=PinguiPau&repo=RapiRifa&theme=github_dark_dimmed)](https://github.com/PinguiPau/RapiRifa.git)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=ju4nvagabond&repo=Sistema-Matriculas-java-POO&theme=github_dark_dimmed)](https://github.com/ju4nvagabond/Sistema-Matriculas-Java-POO.git)
 
 <br>
 
